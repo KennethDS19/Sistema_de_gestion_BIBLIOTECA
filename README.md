@@ -1,7 +1,7 @@
 # CONSULTA DE EXPLORACIÓN
 ## Sistema de gestión de una biblioteca universitaria
 
-**Universidad Industrial de Santander**
+---
 
 María Bueno - 2243504
 
