@@ -15,7 +15,9 @@ Kenneth Silva - 2242735
 
 ---
 
-## 1. Conceptos importantes y relevantes en la temática de sistema de gestión de una biblioteca universitaria
+## 1. Contexto del problema y conceptos importantes en la temática de sistema de gestión de una biblioteca universitaria
+
+Para las bibliotecas existe la necesidad latente de organizar y automatizar los procesos como consulta, préstamo, devolución, renovación y reserva de recursos bibliográficos, de acuerdo con su disponibilidad. La implementación de un sistema de gestión de bibliotecas permite optimizar la administración de libros, tesis, revistas y otros recursos en diferentes formatos, facilitando su organización y consulta, evitando conflictos en los préstamos y mejorando la experiencia de los usuarios de una universidad: estudiantes, docentes y administrativos.
 
 ### Sistema de Gestión de Bibliotecas
 Se refiere a un conjunto automatizado que contemple las funciones de recopilación, almacenamiento, búsqueda y distribución del material bibliográfico de forma que se puedan satisfacer las necesidades y demandas de la institución, y al mismo tiempo mejorar la experiencia de los usuarios.
