@@ -18,12 +18,13 @@
 
 ---
 
-María Bueno - 2243504
-María Escalante - 2242732
-Karol Lizarazo - 2243131
-Mariana Martínez - 2242746
-Kenneth Silva - 2242735
-Juliana Serrano - 2221122
+-María Bueno - 2243504
+-María Escalante - 2242732
+-Karol Lizarazo - 2243131
+-Mariana Martínez - 2242746
+-Kenneth Silva - 2242735
+-Juliana Serrano - 2221122
+
 
 ---
 
