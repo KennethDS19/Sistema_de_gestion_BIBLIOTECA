@@ -1,18 +1,29 @@
+## Tabla de Contenido
+
+* [1. Contexto del problema y conceptos importantes](#1-contexto-del-problema-y-conceptos-importantes-en-la-temática-de-sistema-de-gestión-de-una-biblioteca-universitaria)
+* [2. Tendencias actuales en dichos conceptos](#2-tendencias-actuales-en-dichos-conceptos)
+* [3. Consultar y analizar al menos 2 herramientas existentes](#3-consultar-y-analizar-al-menos-2-herramientas-existentes-en-el-mercado-para-el-problema-o-situación-asignado)
+* [4. Diagrama Entidad Relación](#4-diagrama-entidad-relación)
+* [5. Introducción y Justificación del Nivel de Normalización](#5-introducción-y-justificación-del-nivel-de-normalización)
+* [6. Análisis del Modelo Entidad - Relación](#6-análisis-del-modelo-entidad---relación)
+* [7. Primera Forma Normal](#7-primera-forma-normal)
+* [8. Segunda Forma Normal](#8-segunda-forma-normal)
+* [9. Tercera Forma Normal](#9-tercera-forma-normal)
+* [10. Modelo Relacional Final](#10-modelo-relacional-final)
+* [Referencias Bibliográficas](#referencias-bibliográficas)
+
+
 # CONSULTA DE EXPLORACIÓN
 ## Sistema de gestión de una biblioteca universitaria
 
 ---
 
 María Bueno - 2243504
-
 María Escalante - 2242732
-
 Karol Lizarazo - 2243131
-
 Mariana Martínez - 2242746
-
 Kenneth Silva - 2242735
-
+Juliana Serrano - 2221122
 ---
 
 ## 1. Contexto del problema y conceptos importantes en la temática de sistema de gestión de una biblioteca universitaria
