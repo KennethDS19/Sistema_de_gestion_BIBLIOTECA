@@ -1,3 +1,4 @@
+# Sistema de gestión de una biblioteca universitaria
 ## Tabla de Contenido
 
 * [1. Contexto del problema y conceptos importantes](#1-contexto-del-problema-y-conceptos-importantes-en-la-temática-de-sistema-de-gestión-de-una-biblioteca-universitaria)
@@ -14,16 +15,16 @@
 
 
 # CONSULTA DE EXPLORACIÓN
-## Sistema de gestión de una biblioteca universitaria
-
 ---
-
--María Bueno - 2243504
--María Escalante - 2242732
--Karol Lizarazo - 2243131
--Mariana Martínez - 2242746
--Kenneth Silva - 2242735
--Juliana Serrano - 2221122
+### Integrantes
+| Nombre | Código |
+| :--- | :--- |
+| María Bueno | 2243504 |
+| María Escalante | 2242732 |
+| Karol Lizarazo | 2243131 |
+| Mariana Martínez | 2242746 |
+| Kenneth Silva | 2242735 |
+| Juliana Serrano | 2221122 |
 
 
 ---
