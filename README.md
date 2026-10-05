@@ -24,6 +24,7 @@ Karol Lizarazo - 2243131
 Mariana Martínez - 2242746
 Kenneth Silva - 2242735
 Juliana Serrano - 2221122
+
 ---
 
 ## 1. Contexto del problema y conceptos importantes en la temática de sistema de gestión de una biblioteca universitaria
