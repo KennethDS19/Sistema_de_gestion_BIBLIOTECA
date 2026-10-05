@@ -13,8 +13,6 @@
 * [10. Modelo Relacional Final](#10-modelo-relacional-final)
 * [Referencias Bibliográficas](#referencias-bibliográficas)
 
-
-# CONSULTA DE EXPLORACIÓN
 ---
 ### Integrantes
 | Nombre | Código |
@@ -28,7 +26,7 @@
 
 
 ---
-
+# CONSULTA DE EXPLORACIÓN
 ## 1. Contexto del problema y conceptos importantes en la temática de sistema de gestión de una biblioteca universitaria
 
 Para las bibliotecas existe la necesidad latente de organizar y automatizar los procesos como consulta, préstamo, devolución, renovación y reserva de recursos bibliográficos, de acuerdo con su disponibilidad. La implementación de un sistema de gestión de bibliotecas permite optimizar la administración de libros, tesis, revistas y otros recursos en diferentes formatos, facilitando su organización y consulta, evitando conflictos en los préstamos y mejorando la experiencia de los usuarios de una universidad: estudiantes, docentes y administrativos.
