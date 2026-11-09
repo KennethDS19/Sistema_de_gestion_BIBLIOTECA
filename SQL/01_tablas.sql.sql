@@ -1,5 +1,3 @@
-/*BASE DE DATOS: SISTEMA DE BIBLIOTECA UNIVERSITARIA*/
-
 DROP DATABASE IF EXISTS biblioteca_universitaria;
 CREATE DATABASE biblioteca_universitaria CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;
 USE biblioteca_universitaria;
