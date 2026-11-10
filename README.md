@@ -2088,7 +2088,7 @@ SELECT m.ID_multa, u.Nombre AS Usuario, m.Valor AS Valor_multa,
 FROM MULTA AS m
 INNER JOIN PRESTAMO AS p ON m.ID_prestamo = p.ID_prestamo
 INNER JOIN USUARIO AS u ON p.Codigo_usuario = u.Codigo_usuario
-WHERE m.Estado_pago = 'Pendiente'
+WHERE m.Estado_pago like '%Pendiente%'
 ORDER BY m.Valor DESC;
 ```
 
